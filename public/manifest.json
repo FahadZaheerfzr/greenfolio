@@ -1,0 +1,23 @@
+{
+  "short_name": "GooseBumps",
+  "name": "GooseBumps",
+  "description": "Farm EMPIRE with GooseBumps LP Tokens",
+  "homepage_url": "https://goosebumps.finance",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1FC7D4",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "56x47"
+    }
+  ]
+}
